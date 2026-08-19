@@ -1,0 +1,32 @@
+# Python
+pycache/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+*.csv
+*.xlsx
+*.zip
+
+# Model files
+*.pkl
+*.joblib
