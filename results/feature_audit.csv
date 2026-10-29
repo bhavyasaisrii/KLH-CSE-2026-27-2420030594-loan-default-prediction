@@ -1,0 +1,9 @@
+column,normalized,post_funding,decision
+annual_inc,annual_inc,False,RETAIN
+dti,dti,False,RETAIN
+fico_score,fico_score,False,RETAIN
+emp_length_years,emp_length_years,False,RETAIN
+purpose,purpose,False,RETAIN
+state,state,False,RETAIN
+loan_status,loan_status,False,RETAIN
+last_payment_amount,last_payment_amount,True,DROP
